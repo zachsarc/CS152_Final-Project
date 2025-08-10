@@ -17,4 +17,4 @@ To run this project, you need:
 
 ## Example of working program
 ![ex](example.png)
-![example of csv](runners.csv)
+![example of csv](runners.png)
