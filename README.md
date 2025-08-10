@@ -16,4 +16,5 @@ To run this project, you need:
 ### Author: Zach Lariccia (zachsarc)
 
 ## Example of working program
-![ex](Example.png)
+![ex](example.png)
+![example of csv](runners.csv)
